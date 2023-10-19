@@ -27,6 +27,15 @@
   - **Data Binning**: Bucketing continuous variables.
   - **Encoding**: Techniques like one-hot, binary, target, and mean encoding.
 - **Handling Imbalances**: Utilizing SMOTE, ADASYN, and under-sampling.
+- **Bias Detection**:
+  - **Class Imbalance (CI)**: Measures the distribution of instances among different classes in a dataset.
+  - **Label Imbalance (DPL)**: Assesses the difference in proportions of positive and negative labels across different values of a categorical variable.
+  - **Kullback-Leibler Divergence (KL)**: Quantifies the difference between two probability distributions.
+  - **Jensen-Shannon Divergence (JS)**: Measures the similarity between two probability distributions.
+  - **Lp-norm (LP)**: Generalized distance metric between two data points in 'n'-dimensional space.
+  - **Total Variation Distance (TVD)**: Measures the maximum difference between probabilities in two distributions.
+  - **Kolmogorov-Smirnov (KS)**: Non-parametric test to compare the similarity between two sample distributions.
+  - **Conditional Demographic Disparity (CDD)**: Assesses disparity in the distribution of a sensitive attribute given a particular label.
 
 ### 3. **Exploratory Data Analysis (EDA)**:
 - **Visualization**:
