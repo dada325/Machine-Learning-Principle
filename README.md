@@ -1,4 +1,4 @@
-# Machine-Learning-Principle
+# Machine-Learning-Algorithm-overview
 The revisit of the Machine learning and Deep learning fundamentals and implementation Code
 
 Alright! Let's have some fun with the Machine Learning. This is the code accompany with the blog posts series. 
